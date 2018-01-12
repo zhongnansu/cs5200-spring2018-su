@@ -1,4 +1,4 @@
-package edu.northeastern.cs5200;
+package edu.northeastern.cs5200.controllers.hello;
 
 public class HelloObject {
 	private String message;
